@@ -4,7 +4,7 @@ This project presents a GIS-based spatial analysis and visualization of a select
 
 The work focuses on integrating geographic, cultural, and environmental data to represent the walking route and its surrounding context in a clear and readable cartographic layout.
 
-[map](./map.png)
+![map](./map.png)
 ---
 
 ## Project Objective
@@ -115,7 +115,7 @@ The layout integrates:
 
 This phase focused on transforming the analytical work into a clear and communicative cartographic product.
 
-[detail](./detail.png)
+![detail](./detail.png)
 ---
 
 ## Tools
